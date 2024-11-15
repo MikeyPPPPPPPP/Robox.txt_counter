@@ -8,3 +8,7 @@ This plugin returns the length of robots.txt.rb's output.
 
 
 The idea is to get a general size of the site.
+# Usage:
+```
+./whatweb -p plugins/robots.txt_counter.rb https://www.google.com
+```
