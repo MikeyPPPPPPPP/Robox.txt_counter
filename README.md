@@ -11,4 +11,6 @@ The idea is to get a general size of the site.
 # Usage:
 ```
 ./whatweb -p plugins/robots.txt_counter.rb https://www.google.com
+
+https://www.google.com [200 OK] robots_counter[ Length 326]
 ```
