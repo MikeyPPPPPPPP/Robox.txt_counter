@@ -20,7 +20,7 @@ Plugin.define do
 	
 	
 	# Passive #
-	passive do
+	aggressive do
 		m=[]
 		r = []
 		
